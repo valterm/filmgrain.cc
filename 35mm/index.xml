@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>35mm on </title>
+    <link>https://filmgrain.cc/35mm/</link>
+    <description>Recent content in 35mm on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2025-2026 Martin Valter</copyright>
+    <lastBuildDate>Fri, 19 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://filmgrain.cc/35mm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>People</title>
+      <link>https://filmgrain.cc/35mm/people/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://filmgrain.cc/35mm/people/</guid>
+        <media:content url="https://img.filmgrain.cc/35mm/people/cover_hu_416e4ff7e5768029.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://img.filmgrain.cc/35mm/people/cover_hu_416e4ff7e5768029.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Stills</title>
+      <link>https://filmgrain.cc/35mm/stills/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://filmgrain.cc/35mm/stills/</guid>
+        <media:content url="https://img.filmgrain.cc/35mm/stills/cover_hu_d9e60365b37ed663.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://img.filmgrain.cc/35mm/stills/cover_hu_d9e60365b37ed663.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Nature</title>
+      <link>https://filmgrain.cc/35mm/nature/</link>
+      <pubDate>Fri, 19 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>https://filmgrain.cc/35mm/nature/</guid>
+        <media:content url="https://img.filmgrain.cc/35mm/nature/cover_hu_44edef33f8781e3d.png" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;https://img.filmgrain.cc/35mm/nature/cover_hu_44edef33f8781e3d.png&quot; /&gt;
+          &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
+        </description></item>
+  </channel>
+</rss>
